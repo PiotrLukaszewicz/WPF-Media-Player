@@ -1,4 +1,4 @@
 # Wimamp
-WPF Project of classic music player 
+WPF Project klasycznego odtwarzacza muzyki
 
 ![alt text](http://i.imgur.com/hl2nH6B.png)
